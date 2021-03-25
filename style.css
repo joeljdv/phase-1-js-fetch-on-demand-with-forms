@@ -1,7 +1,7 @@
 body, css {
   margin: 0;
   padding: 0;
-  background-color: aliceblue;
+  background-color: rgb(228, 171, 245);
   text-align: center;
 }
 
@@ -19,4 +19,14 @@ section {
 
 #movieDetails {
   display: block;
+}
+
+h4 {
+  color: rgb(32, 32, 77);
+  font-size: 25px;
+}
+
+p {
+  color: rgb(97, 97, 170);
+  font-size: 25px;
 }
